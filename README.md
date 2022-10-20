@@ -10,5 +10,5 @@ Front End Developer experienced in developing and implementing highly responsive
 
 
 ## 🛠 Skills
-[![react](https://skills.thijs.gg/icons?i=html,css,javascript,ts,react,redux,nextjs,tailwind,nodejs,git,figma,mongo)](https://skills.thijs.gg)
+[![react](https://skills.thijs.gg/icons?i=html,css,javascript,ts,react,redux,nextjs,tailwind,nodejs,git,figma,mongo)]((https://reactjs.org/))
 
