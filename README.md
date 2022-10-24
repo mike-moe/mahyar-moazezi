@@ -4,7 +4,7 @@
 
 
 ## 👨🏻‍💻 About Me
-ٍxperienced Front End Developer in developing and implementing highly responsive user-friendly platforms and large-scale enterprise applications based on best practices and design patterns.
+Experienced Front End Developer in developing and implementing highly responsive user-friendly platforms and large-scale enterprise applications based on best practices and design patterns.
 
 
 ## 🌐‍ Socials
