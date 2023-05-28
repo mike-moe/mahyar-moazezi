@@ -4,7 +4,7 @@
 
 
 ## 👨🏻‍💻 About Me
-Experienced Front End Developer in developing and implementing highly responsive user-friendly platforms and large-scale enterprise applications based on best practices and design patterns.
+Passionate about the transformative power of machine learning, I am a dedicated and curious Machine Learning Enthusiast. Constantly seeking opportunities to expand my knowledge and skills, I am driven to explore data analysis, predictive modeling, and artificial intelligence algorithms. With a strong foundation in mathematics and statistics, I approach challenges with a methodical and analytical mindset, striving to uncover meaningful insights from complex datasets. My ultimate goal is to contribute to the development of intelligent systems that solve real-world problems and improve lives. I am excited to connect with professionals, researchers, and practitioners in the field, fostering a community of lifelong learners.
 
 
 ## 🌐‍ Socials
