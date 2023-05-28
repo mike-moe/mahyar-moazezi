@@ -11,7 +11,7 @@ Experienced Front End Developer in developing and implementing highly responsive
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-moazezi/)
 
-[![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mahyarmoazezi)
+[![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/mahyarmoazezi)
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14858785/mahyar-moazezi)
 
