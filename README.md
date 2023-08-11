@@ -4,7 +4,7 @@
 
 
 ## 👨🏻‍💻 About Me
-Detail-oriented Frontend Developer with 5 years of experience in developing and implementing highly responsive user-friendly platforms and large-scale enterprise applications based on best practices and design patterns. The ability to convert the design into the responsive website while supporting and updating web applications. Strong ability to work with product team members to implement designs by using innovative web technologies and frameworks. Experienced to work in an Agile environment and collaborating with Scrum team members.
+Detail-oriented Frontend Developer with 4 years of experience in developing and implementing highly responsive user-friendly platforms and large-scale enterprise applications based on best practices and design patterns. The ability to convert the design into the responsive website while supporting and updating web applications. Strong ability to work with product team members to implement designs by using innovative web technologies and frameworks. Experienced to work in an Agile environment and collaborating with Scrum team members.
 
 
 ## 🌐‍ Socials
