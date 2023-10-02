@@ -4,7 +4,7 @@
 
 
 ## 👨🏻‍💻 About Me
-Detail-oriented Frontend Developer experienced in implementing responsive and user-friendly platforms. Proficient in translating designs into responsive web pages. Strong ability to work with product team members to implement designs using innovative web technologies and frameworks. Experienced in working in an Agile environment and collaborating closely with Scrum team members for effective project advancement. My objective is to specialize in client-side development, mastering cutting-edge tools for an enhanced user experience.
+Front End Developer with 4 years of experience in developing and implementing highly responsive, user-friendly platforms, and enterprise applications based on best practices and design patterns in React and NextJs. Communicated with product team members to implement business ideas into seamless dashboards and web-based platforms resulting in +3K active users in meal ordering system and over 60% boost in overall website efficiency by rewriting real estate website from scratch. Experienced working in Agile environment and collaborating with Scrum team members.
 
 
 ## 🌐‍ Socials
